@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT" />
+</p>
 
-## Getting Started
+<!-- Title -->
+<h1 align="center">💼 Invoice App</h1>
+<p align="center">A sleek, modern, and responsive invoice management application built with Next.js, TypeScript, and Tailwind CSS.</p>
 
-First, run the development server:
+---
 
+
+## 🚀 Features
+
+- 📄 **Create & edit invoices** with an intuitive interface  
+- 📂 **Manage clients** and invoice history with ease  
+- 🎨 **Light & Dark mode** for comfortable viewing  
+- ⚡ Built with **Next.js 15 + TypeScript** for performance  
+- 🔄 **Auto-updates** in real-time while editing  
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Using npm
+npm install
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Or using yarn
+yarn install
 
-## Learn More
+# Or using pnpm
+pnpm install
 
-To learn more about Next.js, take a look at the following resources:
+# Or using bun
+bun install
+🛠 Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js – React framework for production
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+TypeScript – Strongly typed JavaScript
 
-## Deploy on Vercel
+Tailwind CSS – Utility-first CSS framework
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🌟 Support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+If you like this project, please consider:
+
+⭐ Starring the repo
+
+🪄 Forking it for your own use
+
+🛠 Contributing improvements
