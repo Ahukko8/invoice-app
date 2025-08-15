@@ -12,16 +12,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="public/preview-light.png" width="80%" alt="Invoice App Preview - Light Mode" />
-</p>
-<p align="center">
-  <img src="public/preview-dark.png" width="80%" alt="Invoice App Preview - Dark Mode" />
-</p>
-
----
 
 ## 🚀 Features
 
